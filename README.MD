@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARPIT AKAR</h1>
 <h3 align="center">A Data Engineer</h3>
-![images](https://github.com/ARPITAKAR/ARPITAKAR/assets/113084215/acefef78-e1ce-4e50-9f01-3abd080cbf27)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakar&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakar" /> </p>
 
