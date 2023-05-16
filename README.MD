@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Algorithmic Trading**
 
-- 🌱 I’m currently learning **R,Python,ML**
+- 🌱 I’m currently learning **Python,Numpy,Pandas,**
 
-- 💬 Ask me about **R,Pyton,Nse library,Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **arpit1004@gmail.com**
 
