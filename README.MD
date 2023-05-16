@@ -2,6 +2,7 @@
 <h3 align="center">A Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakar&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakar" /> </p>
+![istockphoto-1278527193-612x612](https://github.com/ARPITAKAR/ARPITAKAR/assets/113084215/f6b6f4a8-752e-4c72-9a6e-3a95b3ec252b)
 
 - 🔭 I’m currently working on **Algorithmic Trading**
 
