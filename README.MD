@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ARPIT AKAR</h1>
 <h3 align="center">A Data Engineer</h3>
-![istockphoto-1278527193-612x612](https://github.com/ARPITAKAR/ARPITAKAR/assets/113084215/bff059b3-1ac5-4639-b3a1-c9cce0354553)
+![images](https://github.com/ARPITAKAR/ARPITAKAR/assets/113084215/acefef78-e1ce-4e50-9f01-3abd080cbf27)
+[Arpit_Resume.pdf](https://github.com/ARPITAKAR/ARPITAKAR/files/11484633/Arpit_Resume.pdf)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakar&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakar" /> </p>
 
 - 🔭 I’m currently working on **Algorithmic Trading**
