@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakar&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakar" /> </p>
 
-- 🔭 I’m currently working on **Algorithmic Trading**
+- 🔭 I’m currently working on **Deep Learning, Machine Learning, Gen AI, Algorhytmic Trading**
 
 - 🌱 I’m currently learning **Python,Numpy,Pandas,**
 
